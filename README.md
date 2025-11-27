@@ -26,7 +26,7 @@
 
 ## Установка и запуск
 
-- git clone https://github.com/AUKYJL/tipkr4
-- cd tipkr4
+- git clone https://github.com/AUKYJL/tipkr4.git
+- cd ./tipkr4
 - npm i
 - npm run dev
